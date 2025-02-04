@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerpientesYEscalerasAPI", "SerpientesYEscalerasAPI\SerpientesYEscalerasAPI.csproj", "{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSerpientesYEscaleras", "TestSerpientesYEscaleras\TestSerpientesYEscaleras.csproj", "{A7515CD5-7EC0-4FBA-BF77-709D2D3BA87F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7515CD5-7EC0-4FBA-BF77-709D2D3BA87F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7515CD5-7EC0-4FBA-BF77-709D2D3BA87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7515CD5-7EC0-4FBA-BF77-709D2D3BA87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7515CD5-7EC0-4FBA-BF77-709D2D3BA87F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33CB94EB-2B2D-4D35-A7CA-58975C633184}
+	EndGlobalSection
+EndGlobal

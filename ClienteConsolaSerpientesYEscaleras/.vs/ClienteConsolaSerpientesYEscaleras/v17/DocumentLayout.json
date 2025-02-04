@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eduardo\\Documents\\Bayteq\\ClienteConsolaSerpientesYEscaleras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9B4C8-3C7F-48AA-8D0C-C8ACAE5567AD}|ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras.csproj|c:\\users\\eduardo\\documents\\bayteq\\clienteconsolaserpientesyescaleras\\clienteconsolaserpientesyescaleras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9B4C8-3C7F-48AA-8D0C-C8ACAE5567AD}|ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras.csproj|solutionrelative:clienteconsolaserpientesyescaleras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9B4C8-3C7F-48AA-8D0C-C8ACAE5567AD}|ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras.csproj|c:\\users\\eduardo\\documents\\bayteq\\clienteconsolaserpientesyescaleras\\clienteconsolaserpientesyescaleras\\vista\\juegoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9B4C8-3C7F-48AA-8D0C-C8ACAE5567AD}|ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras.csproj|solutionrelative:clienteconsolaserpientesyescaleras\\vista\\juegoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9B4C8-3C7F-48AA-8D0C-C8ACAE5567AD}|ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras.csproj|c:\\users\\eduardo\\documents\\bayteq\\clienteconsolaserpientesyescaleras\\clienteconsolaserpientesyescaleras\\controlador\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9B4C8-3C7F-48AA-8D0C-C8ACAE5567AD}|ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras.csproj|solutionrelative:clienteconsolaserpientesyescaleras\\controlador\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9B4C8-3C7F-48AA-8D0C-C8ACAE5567AD}|ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras.csproj|c:\\users\\eduardo\\documents\\bayteq\\clienteconsolaserpientesyescaleras\\clienteconsolaserpientesyescaleras\\modelo\\moverjugadorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9B4C8-3C7F-48AA-8D0C-C8ACAE5567AD}|ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras.csproj|solutionrelative:clienteconsolaserpientesyescaleras\\modelo\\moverjugadorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE9B4C8-3C7F-48AA-8D0C-C8ACAE5567AD}|ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras.csproj|c:\\users\\eduardo\\documents\\bayteq\\clienteconsolaserpientesyescaleras\\clienteconsolaserpientesyescaleras\\modelo\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE9B4C8-3C7F-48AA-8D0C-C8ACAE5567AD}|ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras.csproj|solutionrelative:clienteconsolaserpientesyescaleras\\modelo\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JuegoView.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras\\Vista\\JuegoView.cs",
+              "RelativeDocumentMoniker": "ClienteConsolaSerpientesYEscaleras\\Vista\\JuegoView.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras\\Vista\\JuegoView.cs",
+              "RelativeToolTip": "ClienteConsolaSerpientesYEscaleras\\Vista\\JuegoView.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T01:37:30.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras\\Program.cs",
+              "RelativeDocumentMoniker": "ClienteConsolaSerpientesYEscaleras\\Program.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras\\Program.cs",
+              "RelativeToolTip": "ClienteConsolaSerpientesYEscaleras\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T01:26:37.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JuegoController.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras\\Controlador\\JuegoController.cs",
+              "RelativeDocumentMoniker": "ClienteConsolaSerpientesYEscaleras\\Controlador\\JuegoController.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras\\Controlador\\JuegoController.cs",
+              "RelativeToolTip": "ClienteConsolaSerpientesYEscaleras\\Controlador\\JuegoController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T01:29:38.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoverJugadorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras\\Modelo\\MoverJugadorResponse.cs",
+              "RelativeDocumentMoniker": "ClienteConsolaSerpientesYEscaleras\\Modelo\\MoverJugadorResponse.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras\\Modelo\\MoverJugadorResponse.cs",
+              "RelativeToolTip": "ClienteConsolaSerpientesYEscaleras\\Modelo\\MoverJugadorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T01:28:24.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras\\Modelo\\Jugador.cs",
+              "RelativeDocumentMoniker": "ClienteConsolaSerpientesYEscaleras\\Modelo\\Jugador.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\ClienteConsolaSerpientesYEscaleras\\ClienteConsolaSerpientesYEscaleras\\Modelo\\Jugador.cs",
+              "RelativeToolTip": "ClienteConsolaSerpientesYEscaleras\\Modelo\\Jugador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T01:27:55.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
