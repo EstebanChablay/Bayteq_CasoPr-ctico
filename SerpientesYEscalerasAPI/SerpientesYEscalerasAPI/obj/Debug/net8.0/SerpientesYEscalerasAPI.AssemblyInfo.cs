@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SerpientesYEscalerasAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6b47d5744a4c1eafb2285ad4b304a24ab16144e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+942e289881c6d4bf0ae5e8eae13763798c6f0b92")]
 [assembly: System.Reflection.AssemblyProductAttribute("SerpientesYEscalerasAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SerpientesYEscalerasAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

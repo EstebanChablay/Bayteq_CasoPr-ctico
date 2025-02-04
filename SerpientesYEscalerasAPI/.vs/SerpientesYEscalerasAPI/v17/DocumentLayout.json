@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7515CD5-7EC0-4FBA-BF77-709D2D3BA87F}|TestSerpientesYEscaleras\\TestSerpientesYEscaleras.csproj|c:\\users\\eduardo\\documents\\bayteq\\serpientesyescalerasapi\\testserpientesyescaleras\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7515CD5-7EC0-4FBA-BF77-709D2D3BA87F}|TestSerpientesYEscaleras\\TestSerpientesYEscaleras.csproj|solutionrelative:testserpientesyescaleras\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|c:\\users\\eduardo\\documents\\bayteq\\serpientesyescalerasapi\\serpientesyescalerasapi\\servicio\\juegoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|solutionrelative:serpientesyescalerasapi\\servicio\\juegoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|c:\\users\\eduardo\\documents\\bayteq\\serpientesyescalerasapi\\serpientesyescalerasapi\\controlador\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|solutionrelative:serpientesyescalerasapi\\controlador\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|c:\\users\\eduardo\\documents\\bayteq\\serpientesyescalerasapi\\serpientesyescalerasapi\\modelo\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|solutionrelative:serpientesyescalerasapi\\modelo\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7515CD5-7EC0-4FBA-BF77-709D2D3BA87F}|TestSerpientesYEscaleras\\TestSerpientesYEscaleras.csproj|c:\\users\\eduardo\\documents\\bayteq\\serpientesyescalerasapi\\testserpientesyescaleras\\tablerotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7515CD5-7EC0-4FBA-BF77-709D2D3BA87F}|TestSerpientesYEscaleras\\TestSerpientesYEscaleras.csproj|solutionrelative:testserpientesyescaleras\\tablerotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|c:\\users\\eduardo\\documents\\bayteq\\serpientesyescalerasapi\\serpientesyescalerasapi\\servicio\\ijuegoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +23,20 @@
       "RelativeMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|solutionrelative:serpientesyescalerasapi\\modelo\\tablero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|c:\\users\\eduardo\\documents\\bayteq\\serpientesyescalerasapi\\serpientesyescalerasapi\\modelo\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|solutionrelative:serpientesyescalerasapi\\modelo\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|c:\\users\\eduardo\\documents\\bayteq\\serpientesyescalerasapi\\serpientesyescalerasapi\\modelo\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|solutionrelative:serpientesyescalerasapi\\modelo\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|c:\\users\\eduardo\\documents\\bayteq\\serpientesyescalerasapi\\serpientesyescalerasapi\\controlador\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|solutionrelative:serpientesyescalerasapi\\controlador\\juegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|c:\\users\\eduardo\\documents\\bayteq\\serpientesyescalerasapi\\serpientesyescalerasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|solutionrelative:serpientesyescalerasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7515CD5-7EC0-4FBA-BF77-709D2D3BA87F}|TestSerpientesYEscaleras\\TestSerpientesYEscaleras.csproj|c:\\users\\eduardo\\documents\\bayteq\\serpientesyescalerasapi\\testserpientesyescaleras\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7515CD5-7EC0-4FBA-BF77-709D2D3BA87F}|TestSerpientesYEscaleras\\TestSerpientesYEscaleras.csproj|solutionrelative:testserpientesyescaleras\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7515CD5-7EC0-4FBA-BF77-709D2D3BA87F}|TestSerpientesYEscaleras\\TestSerpientesYEscaleras.csproj|c:\\users\\eduardo\\documents\\bayteq\\serpientesyescalerasapi\\testserpientesyescaleras\\tablerotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7515CD5-7EC0-4FBA-BF77-709D2D3BA87F}|TestSerpientesYEscaleras\\TestSerpientesYEscaleras.csproj|solutionrelative:testserpientesyescaleras\\tablerotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|c:\\users\\eduardo\\documents\\bayteq\\serpientesyescalerasapi\\serpientesyescalerasapi\\modelo\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|solutionrelative:serpientesyescalerasapi\\modelo\\dado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8E6987B-17CC-4DF8-BDEE-B2BD4212CB14}|SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI.csproj|c:\\users\\eduardo\\documents\\bayteq\\serpientesyescalerasapi\\serpientesyescalerasapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,54 +62,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "TableroTest.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\TestSerpientesYEscaleras\\TableroTest.cs",
+              "RelativeDocumentMoniker": "TestSerpientesYEscaleras\\TableroTest.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\TestSerpientesYEscaleras\\TableroTest.cs",
+              "RelativeToolTip": "TestSerpientesYEscaleras\\TableroTest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:56:14.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "JuegoService.cs",
               "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Servicio\\JuegoService.cs",
               "RelativeDocumentMoniker": "SerpientesYEscalerasAPI\\Servicio\\JuegoService.cs",
               "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Servicio\\JuegoService.cs",
               "RelativeToolTip": "SerpientesYEscalerasAPI\\Servicio\\JuegoService.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAUwDEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T22:25:04.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JuegoController.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Controlador\\JuegoController.cs",
-              "RelativeDocumentMoniker": "SerpientesYEscalerasAPI\\Controlador\\JuegoController.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Controlador\\JuegoController.cs",
-              "RelativeToolTip": "SerpientesYEscalerasAPI\\Controlador\\JuegoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T22:29:06.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Jugador.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Modelo\\Jugador.cs",
-              "RelativeDocumentMoniker": "SerpientesYEscalerasAPI\\Modelo\\Jugador.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Modelo\\Jugador.cs",
-              "RelativeToolTip": "SerpientesYEscalerasAPI\\Modelo\\Jugador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T22:18:04.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IJuegoService.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Servicio\\IJuegoService.cs",
-              "RelativeDocumentMoniker": "SerpientesYEscalerasAPI\\Servicio\\IJuegoService.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Servicio\\IJuegoService.cs",
-              "RelativeToolTip": "SerpientesYEscalerasAPI\\Servicio\\IJuegoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T22:23:20.988Z",
               "EditorCaption": ""
             },
             {
@@ -122,12 +95,60 @@
               "RelativeToolTip": "SerpientesYEscalerasAPI\\Modelo\\Tablero.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T22:18:45.132Z",
+              "WhenOpened": "2025-02-03T22:18:45.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\TestSerpientesYEscaleras\\TestService.cs",
+              "RelativeDocumentMoniker": "TestSerpientesYEscaleras\\TestService.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\TestSerpientesYEscaleras\\TestService.cs",
+              "RelativeToolTip": "TestSerpientesYEscaleras\\TestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T23:11:50.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJuegoService.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Servicio\\IJuegoService.cs",
+              "RelativeDocumentMoniker": "SerpientesYEscalerasAPI\\Servicio\\IJuegoService.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Servicio\\IJuegoService.cs",
+              "RelativeToolTip": "SerpientesYEscalerasAPI\\Servicio\\IJuegoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:23:20.988Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Modelo\\Jugador.cs",
+              "RelativeDocumentMoniker": "SerpientesYEscalerasAPI\\Modelo\\Jugador.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Modelo\\Jugador.cs",
+              "RelativeToolTip": "SerpientesYEscalerasAPI\\Modelo\\Jugador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:18:04.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JuegoController.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Controlador\\JuegoController.cs",
+              "RelativeDocumentMoniker": "SerpientesYEscalerasAPI\\Controlador\\JuegoController.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Controlador\\JuegoController.cs",
+              "RelativeToolTip": "SerpientesYEscalerasAPI\\Controlador\\JuegoController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwCoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:29:06.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Dado.cs",
               "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Modelo\\Dado.cs",
               "RelativeDocumentMoniker": "SerpientesYEscalerasAPI\\Modelo\\Dado.cs",
@@ -135,45 +156,19 @@
               "RelativeToolTip": "SerpientesYEscalerasAPI\\Modelo\\Dado.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T22:21:40.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T22:21:40.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Program.cs",
               "RelativeDocumentMoniker": "SerpientesYEscalerasAPI\\Program.cs",
               "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\SerpientesYEscalerasAPI\\Program.cs",
               "RelativeToolTip": "SerpientesYEscalerasAPI\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAgAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T22:35:25.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TestService.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\TestSerpientesYEscaleras\\TestService.cs",
-              "RelativeDocumentMoniker": "TestSerpientesYEscaleras\\TestService.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\TestSerpientesYEscaleras\\TestService.cs",
-              "RelativeToolTip": "TestSerpientesYEscaleras\\TestService.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T23:11:50.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TableroTest.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\TestSerpientesYEscaleras\\TableroTest.cs",
-              "RelativeDocumentMoniker": "TestSerpientesYEscaleras\\TableroTest.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Documents\\Bayteq\\SerpientesYEscalerasAPI\\TestSerpientesYEscaleras\\TableroTest.cs",
-              "RelativeToolTip": "TestSerpientesYEscaleras\\TableroTest.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T22:56:14.879Z"
+              "WhenOpened": "2025-02-03T22:35:25.577Z"
             },
             {
               "$type": "Document",

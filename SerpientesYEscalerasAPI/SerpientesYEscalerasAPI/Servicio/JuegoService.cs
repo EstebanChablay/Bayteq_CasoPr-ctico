@@ -29,12 +29,27 @@ namespace SerpientesYEscalerasAPI.Servicio
         public int MoverJugador(Jugador jugador)
         {
             int lanzamiento = jugador.UltimoLanzamiento;
+            int antiguaPosicion = jugador.Posicion;
             int nuevaPosicion = jugador.Posicion + lanzamiento;
 
             if (nuevaPosicion > 100)
             {
-                int exceso = nuevaPosicion - 100;
-                nuevaPosicion = 100 - exceso;
+                nuevaPosicion = antiguaPosicion;
+            }
+
+            jugador.Posicion = _tablero.VerificarSerpienteOEscalera(nuevaPosicion);
+            return jugador.Posicion;
+        }
+
+        //Aplico la misma logica de la anterior funcion pero con un valor definido en el lanzamiento para los test
+        public int MoverJugadorPredefinido(Jugador jugador, int lanzamiento)
+        {
+            int antiguaPosicion = jugador.Posicion;
+            int nuevaPosicion = jugador.Posicion + lanzamiento;
+
+            if (nuevaPosicion > 100)
+            {
+                nuevaPosicion = antiguaPosicion;
             }
 
             jugador.Posicion = _tablero.VerificarSerpienteOEscalera(nuevaPosicion);

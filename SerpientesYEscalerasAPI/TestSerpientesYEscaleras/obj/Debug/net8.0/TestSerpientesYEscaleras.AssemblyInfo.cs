@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestSerpientesYEscaleras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+942e289881c6d4bf0ae5e8eae13763798c6f0b92")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestSerpientesYEscaleras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestSerpientesYEscaleras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

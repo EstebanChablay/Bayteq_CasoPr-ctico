@@ -110,3 +110,4 @@ C:\Users\Eduardo\Documents\Bayteq\SerpientesYEscalerasAPI\TestSerpientesYEscaler
 C:\Users\Eduardo\Documents\Bayteq\SerpientesYEscalerasAPI\TestSerpientesYEscaleras\obj\Debug\net8.0\TestSerpientesYEscaleras.pdb
 C:\Users\Eduardo\Documents\Bayteq\SerpientesYEscalerasAPI\TestSerpientesYEscaleras\obj\Debug\net8.0\TestSerpientesYEscaleras.genruntimeconfig.cache
 C:\Users\Eduardo\Documents\Bayteq\SerpientesYEscalerasAPI\TestSerpientesYEscaleras\obj\Debug\net8.0\ref\TestSerpientesYEscaleras.dll
+C:\Users\Eduardo\Documents\Bayteq\SerpientesYEscalerasAPI\TestSerpientesYEscaleras\obj\Debug\net8.0\TestSerpientesYEscaleras.sourcelink.json
