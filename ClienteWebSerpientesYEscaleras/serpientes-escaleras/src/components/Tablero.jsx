@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { crearJugador, moverJugador } from "../api/juegoApi";
+import { crearJugador, moverJugador, reiniciarJuego } from "../api/juegoApi";
 import tableroImg from "../assets/tablero.png";
 import "../styles/Tablero.css";
 
@@ -27,6 +27,11 @@ const Tablero = () => {
         }
     };
 
+    const reiniciar = async () =>{
+        reiniciarJuego();
+        window.location.reload();
+    };
+
     const jugarTurno = async () => {
         if (!jugador1 || !jugador2) return;
 
@@ -45,11 +50,30 @@ const Tablero = () => {
             );
 
             if (resultado.haGanado) {
-                setMensaje(`🎉 ¡${jugadorActual} ha ganado el juego! 🎉`);
+                setMensaje(`¡${jugadorActual} Ganaste :D!`);
             } else {
                 setTurno(turno === 1 ? 2 : 1);
             }
         }
+    };
+
+    const generarCasillas = () => {
+        let casillas = [];
+        let reversa = false;
+    
+        for (let fila = 0; fila < 10; fila++) {
+            let filaCasillas = [];
+            for (let col = 0; col < 10; col++) {
+                let numCasilla = reversa
+                    ? (fila * 10) + (10 - col)
+                    : (fila * 10) + (col + 1);
+                filaCasillas.push(numCasilla);
+            }
+            casillas = filaCasillas.concat(casillas);
+            reversa = !reversa;
+        }
+    
+        return casillas;
     };
 
     const jugadorHaGanado = (jugador) => jugador.posicion === 100;
@@ -58,7 +82,17 @@ const Tablero = () => {
         <div className="board-container">
             <h2>Caso Práctico | Serpientes y Escaleras</h2>
             <div className="tablero-container">
-                <img src={tableroImg} alt="Tablero" className="tablero" />
+                <div className="board">
+                    <div className="cont">
+                        {generarCasillas().map((numCasilla) => (
+                            <div key={numCasilla} className="box" id={`b${numCasilla}`}>
+                                {jugador1?.posicion === numCasilla && <div id="p1"></div>}
+                                {jugador2?.posicion === numCasilla && <div id="p2"></div>}
+                            </div>
+                        ))}
+                    </div>
+                    <img src={tableroImg} alt="Tablero" className="tablero" />
+                </div>
                 <div className="info-container">
                     {!jugador1 && !jugador2 && (
                         <div className="input-container">
@@ -92,6 +126,10 @@ const Tablero = () => {
                                 disabled={jugadorHaGanado(jugador1) || jugadorHaGanado(jugador2)}
                             >
                                 Lanzar Dado (Turno de {turno === 1 ? jugador1.nombre : jugador2.nombre})
+                            </button>
+
+                            <button onClick={reiniciar} className="boton-lanzar">
+                                Reiniciar Juego
                             </button>
                         </div>
                     )}

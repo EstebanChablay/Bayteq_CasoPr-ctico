@@ -16,6 +16,7 @@ namespace TestSerpientesYEscaleras
             _tablero = new Tablero();
         }
 
+        //Validar el funcionamiento de las serpientes
         [Theory]
         [InlineData(16, 6)]
         [InlineData(49, 11)]
@@ -24,7 +25,6 @@ namespace TestSerpientesYEscaleras
         [InlineData(99, 80)]
         [InlineData(3, 3)]
         [InlineData(97, 97)]
-
         public void VerificarSerpienteOEscalera_PosFinal_Serpiente(int posInicial, int posFinal)
         {
             int resultado = _tablero.VerificarSerpienteOEscalera(posInicial);
@@ -32,6 +32,7 @@ namespace TestSerpientesYEscaleras
             Assert.Equal(posFinal, resultado);
         }
 
+        //validar el funcionamiento de las escaleras
         [Theory]
         [InlineData(2, 38)]
         [InlineData(7, 14)]
@@ -40,7 +41,6 @@ namespace TestSerpientesYEscaleras
         [InlineData(87, 94)]
         [InlineData(3, 3)]
         [InlineData(97, 97)]
-
         public void VerificarSerpienteOEscalera_PosFinal_Escalera(int posInicial, int posFinal)
         {
             int resultado = _tablero.VerificarSerpienteOEscalera(posInicial);

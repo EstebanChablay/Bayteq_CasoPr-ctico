@@ -25,3 +25,16 @@ export const moverJugador = async (nombre) => {
     return null;
   }
 };
+
+export const reiniciarJuego = async () => {
+  try {
+    const response = await axios.post(`${API_URL}/reiniciar_juego`, [], {
+      headers: {"Content-Type": "application/json"},
+    });
+    console.log(response.data);
+    alert(response.data)
+  } catch (error) {
+    console.log("Error al reiniciar el juego: ", error.response?.data || error);
+  }
+};
+
